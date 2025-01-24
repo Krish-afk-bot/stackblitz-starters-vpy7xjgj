@@ -12,7 +12,7 @@ Before you begin, ensure you:
 - Are familiar with **JavaScript**.
 - Understand the basics of **environment variables**.
 
----
+--- 
 
 ## **🚀 Steps**
 
